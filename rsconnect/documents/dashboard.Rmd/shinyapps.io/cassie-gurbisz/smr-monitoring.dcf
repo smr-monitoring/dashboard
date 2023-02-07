@@ -1,0 +1,13 @@
+name: smr-monitoring
+title: smr-monitoring
+username:
+account: cassie-gurbisz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7970886
+bundleId: 6694518
+url: https://cassie-gurbisz.shinyapps.io/smr-monitoring/
+when: 1672780134.49913
+lastSyncTime: 1672780134.49914
+asMultiple: FALSE
+asStatic: FALSE
